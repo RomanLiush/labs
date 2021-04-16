@@ -1,0 +1,14 @@
+.lab3_block {
+  width: 15rem;
+  background-color: #e8c4e8;
+  margin: 20% auto;
+  border: 2px solid #e8c4e8;
+}
+
+.lab3_block input {
+  width: 100%;
+  height: 25px;
+  outline: none;
+  border: 2px solid darkred;
+}
+

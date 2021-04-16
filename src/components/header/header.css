@@ -1,0 +1,24 @@
+.header {
+  width: 100vw;
+  height: 150px;
+  background-color: cornflowerblue;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.header ul li {
+  list-style: none;
+}
+.header_item {
+  width: 150px;
+  height: 50px;
+  border: 1px solid black;
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  background-color: bisque;
+  margin: 15px 15px;
+}

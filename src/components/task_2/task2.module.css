@@ -1,0 +1,17 @@
+.task_2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.task_2_circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: #000000;
+}
